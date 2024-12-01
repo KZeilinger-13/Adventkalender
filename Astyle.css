@@ -1,0 +1,29 @@
+table{
+    position: absolute;
+	top: 20px;
+    bottom: 0px;
+	left: 80px;
+	right: 0px;
+	height: 100%;
+	width: 100%;
+    
+}
+
+td {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+body {
+    background-image: url(Advent.jpeg);
+    background-size: cover;
+}
